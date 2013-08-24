@@ -3,7 +3,7 @@ Contributors: m_uysl
 Tags: yandex,metrica,stats,statistics,tools,analytics,analytics tool,metrika
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: trunk
+Stable tag: 0.1.3
 License: GPLv2 (or later)
 
 Easy way to use Yandex Metrica in your WordPress site. 
